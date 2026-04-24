@@ -1,6 +1,6 @@
 # Smart Wallet - Pruebas Unitarias
 
-**Nombre:** [Tu Nombre Aqui]
+**Nombre:** Daniel Moncayo
 
 Proyecto en Java 17 con Maven y JUnit 5 para validar reglas de negocio de la clase `SmartWallet`.
 
